@@ -11,3 +11,7 @@ While members [can purchase](https://store.megamaker) t-shirts, hats, and sticke
 While I technically own the trademark for MegaMaker, I want to enable members to print their own apparel + stickers if it's cheaper for them to do so.
 
 [View high-quality logos and branding](https://www.dropbox.com/sh/4ovoucuotpf17kb/AABms5RfheLlimLsvmGXCNZCa?dl=0)
+
+### Legal wording
+
+> You may make t-shirts, desktop wallpaper, or other merchandise with MegaMaker Marks on them, though only for yourself and your friends (meaning people from whom you don’t receive anything of value in return). You can’t put the trademarks on anything that you produce commercially (whether or not you make a profit) — at least not without receiving written permission.
