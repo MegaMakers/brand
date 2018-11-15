@@ -6,7 +6,7 @@ Many of our members want to wear a MegaMaker t-shirt at a conference, or put a s
 
 ![MegaMakers](megamakers.jpg)
 
-While members [can purchase](https://store.megamaker) t-shirts, hats, and stickers, sometimes it's cost prohibitive to do that.
+While members [can purchase](https://store.megamaker) t-shirts, hats, and stickers, sometimes it's cost prohibitive to do that (especially for folks outside of North America - shipping is expensive!).
 
 While I technically own the trademark for MegaMaker, I want to enable members to print their own apparel + stickers if it's cheaper for them to do so.
 
